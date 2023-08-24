@@ -1,2 +1,2 @@
-# CodSoft
+# Codsoft
 C++ codsoft projects 
